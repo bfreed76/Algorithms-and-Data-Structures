@@ -1,0 +1,1 @@
+This repository is owned by Brinton Foy Reed though the content may be copied from a variety of coding practice sites. Please feel free to contact me with any questions. 
